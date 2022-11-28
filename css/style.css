@@ -5,6 +5,7 @@ h1 {
 	color : blue;
 	border-bottom-style: solid;
 	border-color: black;
+	font-size: 175%;
 }
 section {
 	background-color: maroon;
@@ -21,7 +22,7 @@ section {
 	box-sizing: border-box;
 }
 .title {
-	font-size: 150%;
+	font-size: 125%;
 	font-weight: bold;
 	color: black;
 	border-color: black;
@@ -30,7 +31,7 @@ section {
 	border-width: 1px;
 	padding: 3px 3px 3px 3px;
 	float:right;
-	width: 250px;
+	width: 200px;
 	text-align: center;
 }
 .lyric {
